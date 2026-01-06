@@ -9,9 +9,7 @@
 - 🌱 &nbsp;I am a Computer Engineering student at Duoc UC, currently in my third year.
 - 📫 My contact email is this *cristianpvega@gmail.com*
 - 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
