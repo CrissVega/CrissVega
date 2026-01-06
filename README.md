@@ -71,15 +71,8 @@
 </p>
 <br>
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
- </a>
-</p>
 
 
-[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
 
 ------
-Credit: [thenuka99](https://github.com/thenuka99)
-12/01/2023
+
