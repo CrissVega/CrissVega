@@ -10,13 +10,6 @@
 - 📫 My contact email is this *cristianpvega@gmail.com*
 - 💬 Ask me about: anything, I am happy to help
 
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
-
-
 <br><br><br><br><br><br><br><br>
 
 ## Technologies currently using
