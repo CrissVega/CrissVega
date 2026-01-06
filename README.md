@@ -6,8 +6,8 @@
 > Actualmente estoy en busca de oportunidades de trabajo como desarrollador Jr. ó parte de equipo IT.
 <br />
 
-- 🌱 &nbsp;Soy estudiante de Ingenieria informatica en DuocUc actualmente 3er año.
-- 📫 How to reach me **cristianpvega@gmail.com*
+- 🌱 &nbsp;I am a Computer Engineering student at Duoc UC, currently in my third year.
+- 📫 My contact email is this *cristianpvega@gmail.com*
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
